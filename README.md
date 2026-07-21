@@ -68,12 +68,12 @@ I'm an MCA graduate (2025) and freelance full-stack developer who likes building
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codergirlprerna&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergirlprerna&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codergirlprerna&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Prerna's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergirlprerna&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codergirlprerna&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=codergirlprerna&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
